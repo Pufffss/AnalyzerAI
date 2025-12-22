@@ -1,0 +1,5 @@
+venv-analyzer/
+venv/
+__pycache__/
+*.pyc
+.env

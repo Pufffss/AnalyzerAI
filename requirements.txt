@@ -1,0 +1,9 @@
+autogen-agentchat
+autogen-core
+autogen-ext 
+asyncio
+dotenv
+autogen-ext[ollama]
+autogen-ext[docker]
+pandas
+streamlit
